@@ -78,6 +78,8 @@
         min-height: 60vh;
         padding: 10px;
         max-width: 1200px;
+        border-right: var(--bison-yellow) 20px solid;
+        border-left: var(--bison-yellow) 20px solid;
     }
 
     footer{
