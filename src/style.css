@@ -155,7 +155,7 @@
         width: 100%;
         max-width: 30px;
         height: auto;
-        padding-right: 5px;
+        padding: 5px 5px 0 0;
     }
 
     @media (max-width:800px){
