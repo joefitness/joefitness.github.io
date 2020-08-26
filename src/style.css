@@ -156,6 +156,7 @@
         height: auto;
         margin: 15px;
         border: 7px solid var(--bison-gray);
+        align-self: flex-start;
 
     }
 
