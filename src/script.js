@@ -1,1 +1,1 @@
-console.log("Hello Fellow Nerd Friend!");
+console.log("%cHello Fellow Nerd Friend!", "color:green; font-size: 18px;");
